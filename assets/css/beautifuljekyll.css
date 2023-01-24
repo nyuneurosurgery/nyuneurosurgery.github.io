@@ -460,7 +460,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 75;
+  font-weight: 40;
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
@@ -672,7 +672,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 200;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
