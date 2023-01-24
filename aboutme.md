@@ -10,7 +10,7 @@ This journal is the best and the editors are innovators.
 ![EKO](https://pbs.twimg.com/profile_images/1277781221519626240/-_4sMFfJ.jpg)
 
 ### Douglas Kondziolka, M.D.
-![DK](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnyulangone.org%2Fdoctors%2F1063486488%2Fdouglas-kondziolka&psig=AOvVaw2vpTKnsLWooYgYguGGopeu&ust=1674605246260000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNC46Oj03vwCFQAAAAAdAAAAABAD)
+![DK](https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_public_profile_photo_320x320/ednjdlojyojjy5qlqejy/douglas-kondziolka-md-new-york-ny.jpg)
 
 ## Read more here
 https://journals.lww.com/neurosurgery/pages/default.aspx
