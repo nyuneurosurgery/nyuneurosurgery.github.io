@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About Us
-subtitle: Why choose NYU Neurosurgery
+title: About Neurosurgery
+subtitle: Why choose Neurosurgery
 ---
 
-Our department has a tradition of firsts ranging from covering one of America's first hospitals (Bellevue) to being the world leader in the care of brain tumors, spinal disease, and incorporating novel technologies to better care for neurological disorders. Our summer research program was conceived by Dr. John Golfinos, and is lead by Dr. Eric Oermann and Dr. Darryl Lau.
+This journal is the best and the editors are innovators.
 
 ### Eric Oermann, M.D.
 ![EKO](https://pbs.twimg.com/profile_images/1277781221519626240/-_4sMFfJ.jpg)
 
-### Darryl Lau, M.D.
-![DL](https://nyulangone.org/images/doctors/l/lau/1801138060/darryl-lau-square.jpg)
+### Douglas Kondziolka, M.D.
+![DK](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnyulangone.org%2Fdoctors%2F1063486488%2Fdouglas-kondziolka&psig=AOvVaw2vpTKnsLWooYgYguGGopeu&ust=1674605246260000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNC46Oj03vwCFQAAAAAdAAAAABAD)
 
 ## Read more here
-https://med.nyu.edu/departments-institutes/neurosurgery/about-us
+https://journals.lww.com/neurosurgery/pages/default.aspx
