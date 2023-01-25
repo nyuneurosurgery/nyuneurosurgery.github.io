@@ -14,7 +14,7 @@ author: Eric Oermann, M.D.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
+  Neurosurgery Practice with Code Instructions for Authors: "forauthors"
   Resources:
     - NYU Neurosurgery: "https://med.nyu.edu/departments-institutes/neurosurgery/"
     - OLAB AI Research Group: "https://nyuolab.org/"
