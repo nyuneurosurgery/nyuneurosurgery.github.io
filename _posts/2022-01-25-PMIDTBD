@@ -1,0 +1,43 @@
+---
+layout: post
+title: Machine learning can leverage FLOW 800 ICG to predict peri-operative ischemic events in patients undergoing STA-MCA bypass surgery. 
+gh-repo: nyuneurosurgery/flow800
+gh-badge: [star, fork, follow]
+tags: [Algorithms, Cerebral Bypass, Humans,Machine Learning, Neural Networks Computer]
+comments: true
+---
+
+Background: Despite several decades of clinical research on superficial temporal artery to middle cerebral artery (STA-MCA) bypass surgery, intraoperative vessel-based predictors of peri-operative ischemic events are lacking. Flow 800 is a visualization tool that utilizes indocyanine green (ICG) angiography to deliver real-time data on blood flow and “local perfusion” parameters. Machine learning algorithms can leverage these data to prognosticate potential perioperative EC-IC bypass ischemic events. 
+Objective: To develop a machine learning algorithm to help predict perioperative STA-MCA ischemic events, guiding the choice of best recipient vessel and patient care during the acute and subacute post-operative period
+
+Methods: We collected data from 22 patients that underwent STA-MCA bypass with Flow800 ICG. We performed principal component analysis on 16 unique region of interest (ROI) parameters measured intraoperatively and visualized how ischemic and non-schemic patients localized in the feature space. We further trained one-layer and two-layer decision trees on the pre-bypass dataset. 
+
+Results: All patients included in the study demonstrated preoperative hypoperfusion state and intraoperative patent bypass with robust distal flow measured by doppler, ICG and intraoperative angiogram. We assessed all patients during the 30 days postoperative period. Two patients experienced strokes and two patients experienced transient ischemic attacks (TIAs). Principal component analysis showed no distinct cluster of ischemic and non-ischemic groups. Our programmed one-layer decision tree, however, predicted ischemic events based on pre-bypass distal recipient delay <1.28ms with 90.9% accuracy. A two-layer decision tree was trained and additional measures on adjacent gyrus time to perfusion (TTP) improved accuracy to 95.5%. Finally, we bootstrapped 10,000 training and validation sets with a 60:40 split and trained 10,000 two-layer decision trees. On average, these decision trees achieved a 69.6% validation accuracy in predicting ischemic versus non-ischemic patients.
+
+Conclusions: This proof-of-principle study shows that artificial intelligence algorithms using intra-operative Flow 800 ICG can augment prognostication of perioperative clinical results for bypass patients. 
+
+{% include button.html button_name="Link to Article" button_class="outline-primary" url="https://jnis.bmj.com/content/neurintsurg/14/Suppl_1/A73.2.full.pdf" %}
+
+{% include button.html button_name="Code on Github" button_class="outline-success" url="https://github.com/nyuneurosurgery/flow800" %}
+
+## Code Functionality
+{% include button.html button_name="Classification" button_class="outline-info" %}
+{% include button.html button_name="Intraoperative Video" button_class="outline-info" %}
+{% include button.html button_name="Stroke Prediction on video" button_class="outline-info" %}
+
+## Datasets
+{% include button.html button_name="Proprietary" button_class="outline-danger" url="https://nyulangone.org/doctors/1326461658/erez-nossek" %}
+
+## Key Results
+<div class="datatable-begin"></div>
+
+Task    | Dataset                                    | Metric Name | Metric Value
+------- | ------------------------------------------ | ----------- | -----------
+Stroke prediction on video | Proprietary | Accuracy         | 0.90
+
+
+
+<div class="datatable-end"></div>
+
+## Authors
+Mustafa Nasir-Moin, Albert Liu, Zane Schnurman, Eric Oermann, Erez Nossek
